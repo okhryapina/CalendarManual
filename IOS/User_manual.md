@@ -12,7 +12,7 @@
 * added calendar should be checked
 * uncheck and check calendar 
 * back to calendar
-* now meeting is displayed in the device calendar and in the Meetings tab
+* or see video:
 
 ![gif⁩⁩](gif_1556027024.gif)
 
