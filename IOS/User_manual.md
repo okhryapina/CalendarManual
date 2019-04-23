@@ -1,31 +1,34 @@
 # Meetings are not displayed in the Meetings tab.
 
-## Two possible reasons for this. Check, if Meetings displayed in the deviced calendar. If it's not, then do the following:
+## Have you selected Active calendar in the "My meeting video" app settings? If not, do the folowing: 
+* open My meeting video app
+* go Settings
+* go Meetings
+* go Active calendars
+* check needed calendar, if it's unchecked
+![gif⁩⁩](gif_1556027024.gif)
+
+
+* check, if the right calendar is selected
+
+## Needed calendar is not displayed in the Active calendars list. Do the folowing:
 * open device Settings
-* scroll Passwords and Accounts
+* scroll to Passwords and Accounts
 * click Add account
 * select Google(or any other)
 * login to needed account 
-* open account details and check Calendars option, if needed
+* open account details and check Calendars option (if needed)
+
+Check this out: gif
+
+##  Now you have needed calendar in the Active calendars list, you just need to check it. Still don't see the Meetings? Try this:
+
+
+## 
 * open device calendar
 * click Calendars
 * added calendar should be checked
 * uncheck and check calendar 
 * back to calendar
 * or see video:
-
-![gif⁩⁩](gif_1556027024.gif)
-
-
-##  Still don't see the meeting? Do the following:
-* open My meeting video app
-* go Settings
-* go Meetings
-* go Active calendars
-* check needed calendar, if it's unchecked
-* Meeting should be displayed now in the Meetings tab
-
-
-
-
 
