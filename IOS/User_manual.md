@@ -1,6 +1,6 @@
 # Meetings are not displayed in the Meetings tab.
 
-## Two possible reasons for this. Check, if Meetings displaye in the device calendar. If it's not, then do the following:
+## Two possible reasons for this. Check, if Meetings displaye in the deviced calendar. If it's not, then do the following:
 * open device Settings
 * go Passwords and Accounts
 * click Add account
