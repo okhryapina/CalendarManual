@@ -6,29 +6,22 @@
 * go Meetings
 * go Active calendars
 * check needed calendar, if it's unchecked
-![gif⁩⁩](gif_1556027024.gif)
+![gif](IMG_0026.gif)
 
-
-* check, if the right calendar is selected
-
-## Needed calendar is not displayed in the Active calendars list. Do the folowing:
+## Still don't see the Meetings? Check, if it's displayed in the device calendar. If, it's not, then you need to add calendar. How to add calendar: 
 * open device Settings
 * scroll to Passwords and Accounts
 * click Add account
 * select Google(or any other)
 * login to needed account 
 * open account details and check Calendars option (if needed)
+![gif](IMG_0024.gif)
 
-Check this out: gif
-
-##  Now you have needed calendar in the Active calendars list, you just need to check it. Still don't see the Meetings? Try this:
-
-
-## 
+## Calendar added to the device, but Meeting are not visible in device calendar. Try to refresh calendar:
 * open device calendar
 * click Calendars
 * added calendar should be checked
-* uncheck and check calendar 
+* uncheck and check this calendar 
 * back to calendar
-* or see video:
+![gif](IMG_0027.gif)
 
