@@ -19,7 +19,7 @@
 * press "I agree to Google Terms of services
 * scroll down and press "Accept" 
 * check added Calendar (if it's not checked)
-* wait a bit until calendars will appear
+* wait a bit until Meetings appear
 
 ![gif](ezgif2.com-video-to-gif.gif)
 
