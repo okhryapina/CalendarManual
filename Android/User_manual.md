@@ -20,7 +20,7 @@
 * scroll down and tap "Accept" 
 * wait a bit until the meetings appear
 
-![gif](ezgif123.com-video-to-gif.gif)
+![gif](android2.gif)
 
 ## Calendar is added to the device, but meetings are not visible in the device calendar. Try to sync the calendar:
 * open device Settings
