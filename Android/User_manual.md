@@ -7,7 +7,7 @@
 * open Calendar
 * select the needed calendar 
 
-![gif](ezgif.com-video-to-gif11.gif)
+![gif](ezgif.com-video-to-gif1.gif)
 
 ## Still don't see the Meetings? Check, if it's displayed in the device calendar. If not, then add the calendar. How to add needed calendar: 
 * open device Calendar
