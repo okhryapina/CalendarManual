@@ -15,7 +15,7 @@
 * scroll to Passwords and Accounts
 * tap on Add account
 * select Google (or any other)
-* login to account 
+* login to the account 
 * open account details and check the Calendars option
 
 ![gif](IMG_0024.gif)
