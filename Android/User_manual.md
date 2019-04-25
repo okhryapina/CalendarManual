@@ -30,7 +30,7 @@
 * open the top right menu
 * tap Sync now
 
-![gif](ezgif3.com-video-to-gif.gif)
+![gif](ezgif.com-video-to-gif.gif)
 
 ##  An alternative way to sync the calendar
 * open the device Calendar
