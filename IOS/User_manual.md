@@ -7,7 +7,7 @@
 * open Active calendars
 * select the needed calendar 
 
-![gif](IMG_0026.gif)
+![gif](ezgif.com-video-to-gif-2.gif)
 
 ## Still don't see the Meetings? Check, if it's displayed in the device calendar. If not, then add the calendar. How to add the needed calendar: 
 * open the iOS Settings
@@ -17,7 +17,7 @@
 * login to the account 
 * in the account details and the Calendars option must be selected
 
-![gif](IMG_0024.gif)
+![gif](ezgif.com-video-to-gif.gif)
 
 
 ## Calendar added to the device, but meetings are not visible in the device calendar. Try to refresh the calendar:
@@ -27,5 +27,6 @@
 * uncheck and check this calendar 
 * go back to the calendar
 
-![gif](IMG_0027.gif)
+
+![gif](ezgif.com-video-to-gif-3.gif)
 
