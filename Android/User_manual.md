@@ -11,15 +11,15 @@
 
 ## Still don't see the Meetings? Check, if it's displayed in the device calendar. If not, then add the calendar. How to add needed calendar: 
 * open device Calendar
-* open Settings
-* go Manage calendars
-* press Add account
-* select Google(or any other)
-* login to needed account 
-* press "I agree to Google Terms of services
-* scroll down and press "Accept" 
-* check added Calendar (if it's not checked)
-* wait a bit until Meetings appear
+* open the settings menu
+* open "Manage calendars"
+* tap "Add account"
+* select Google (or any other provider)
+* login to the needed account
+* tap "I agree to Google Terms of services"
+* scroll down and tap "Accept" 
+* check the added calendar (if it's not checked)
+* wait a bit until the meetings appear
 
 ![gif](ezgif2.com-video-to-gif.gif)
 
@@ -28,7 +28,7 @@
 * scroll to "Cloud and account"
 * open Accounts
 * open Google
-* open Menu
+* open the top right menu
 * tap Sync now
 
 ![gif](ezgif3.com-video-to-gif.gif)
@@ -37,7 +37,7 @@
 * open the device Calendar
 * open Settings
 * open "Manage calendars"
-* uncheck and check this calendar 
-* back to the calendar
+* uncheck and check your calendar 
+* go back to the calendar
 
 ![gif](ezgif4.com-video-to-gif.gif)
