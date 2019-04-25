@@ -21,7 +21,7 @@
 * check the added calendar (if it's not checked)
 * wait a bit until the meetings appear
 
-![gif](ezgif22.com-video-to-gif.gif)
+![gif](ezgif.com-video-to-gif.gif)
 
 ## Calendar is added to the device, but meetings are not visible in the device calendar. Try to sync the calendar:
 * open device Settings
