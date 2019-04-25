@@ -21,7 +21,7 @@
 ![gif](IMG_0024.gif)
 
 
-## Calendar added to the device, but Meetings are not visible in the device calendar. Try to refresh calendar:
+## Calendar added to the device, but meetings are not visible in the device calendar. Try to refresh the calendar:
 * open the iOS Calendar app
 * tap on Calendars
 * the added calendar should be checked
