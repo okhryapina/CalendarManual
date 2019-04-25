@@ -11,7 +11,7 @@
 
 
 ## Still don't see the Meetings? Check, if it's displayed in the device calendar. If not, then add the calendar. How to add the needed calendar: 
-* open device Settings
+* open the iOS Settings
 * scroll to Passwords and Accounts
 * tap on Add account
 * select Google (or any other)
