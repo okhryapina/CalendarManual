@@ -33,7 +33,7 @@
 
 ![gif](ezgif3.com-video-to-gif.gif)
 
-## Or 
+##  An alternative way to sync the calendar
 * open the device Calendar
 * open Settings
 * open "Manage calendars"
