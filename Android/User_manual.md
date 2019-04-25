@@ -18,7 +18,6 @@
 * login to the needed account
 * tap "I agree to Google Terms of services"
 * scroll down and tap "Accept" 
-* check the added calendar (if it's not checked)
 * wait a bit until the meetings appear
 
 ![gif](ezgif.com-video-to-gif.gif)
