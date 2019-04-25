@@ -5,7 +5,7 @@
 * open Settings
 * open Meetings
 * open Active calendars
-* select the needed calendar (if not selected)
+* select the needed calendar 
 
 ![gif](IMG_0026.gif)
 
