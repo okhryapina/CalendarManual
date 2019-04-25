@@ -1,11 +1,11 @@
 # Meetings are not displayed in the Meetings tab.
 
-## Have you selected Active calendar in the "My meeting video" app settings? If not, do the following: 
-* open My meeting video app
-* go Meetings 
+## Have you selected Active calendar in the "My Meeting Video" app settings? If not, do the following: 
+* open My Meeting Video app
+* open Meetings 
 * open Settings 
-* go Calendar
-* check needed calendar 
+* open Calendar
+* select the needed calendar 
 
 ![gif](ezgif.com-video-to-gif.gif)
 
@@ -23,22 +23,21 @@
 
 ![gif](ezgif2.com-video-to-gif.gif)
 
-## Calendar added to the device, but Meetings are not visible in the device calendar. Try to sync calendar:
+## Calendar is added to the device, but meetings are not visible in the device calendar. Try to sync the calendar:
 * open device Settings
-* scroll to Cloud and account
-* go Accounts
-* go Google
+* scroll to "Cloud and account"
+* open Accounts
+* open Google
 * open Menu
-* press Sync now
+* tap Sync now
 
 ![gif](ezgif3.com-video-to-gif.gif)
 
 ## Or 
-* open device calendar
+* open the device Calendar
 * open Settings
-* go Manage calendars
+* open "Manage calendars"
 * uncheck and check this calendar 
-* back to calendar
+* back to the calendar
 
 ![gif](ezgif4.com-video-to-gif.gif)
-
