@@ -17,7 +17,7 @@
 * login to the account 
 * in the account details and the Calendars option must be selected
 
-![gif](IMG_0024.gif)
+![gif](ezgif.com-video-to-gif.gif)
 
 
 ## Calendar added to the device, but meetings are not visible in the device calendar. Try to refresh the calendar:
