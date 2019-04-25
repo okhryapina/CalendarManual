@@ -1,6 +1,6 @@
 # Meetings are not displayed in the Meetings tab.
 
-## Have you selected Active calendar in the "My meeting video" app settings? If not, do the following: 
+## Have you selected Active calendar in the "My Meeting Video" app settings? If not, do the following: 
 * open My Meeting Video app
 * open Settings
 * open Meetings
