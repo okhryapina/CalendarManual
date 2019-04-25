@@ -39,4 +39,4 @@
 * uncheck and check your calendar 
 * go back to the calendar
 
-![gif](android4.gi)
+![gif](android4.gif)
