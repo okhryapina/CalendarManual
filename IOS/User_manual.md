@@ -17,7 +17,7 @@
 * login to the account 
 * in the account details and the Calendars option must be selected
 
-![gif](ios2.gif)
+![gif](ios32.gif)
 
 
 ## Calendar added to the device, but meetings are not visible in the device calendar. Try to refresh the calendar:
