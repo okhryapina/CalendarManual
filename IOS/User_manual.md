@@ -1,6 +1,7 @@
 # Meetings are not displayed in the Meetings tab.
 
-## Have you selected Active calendar in the "My Meeting Video" app settings? If not, do the following: 
+## Have you selected Active calendar in the "My Meeting Video" app settings? 
+### How to select Active calendar: 
 * open My Meeting Video app
 * open Settings
 * open Meetings
@@ -9,7 +10,8 @@
 
 ![gif](ios1.gif)
 
-## Still don't see the Meetings? Check, if it's displayed in the device calendar. If not, then add the calendar. How to add the needed calendar: 
+## Still don't see the Meetings? Check, if it's displayed in the device calendar. Maybe you forgot to add calendar. 
+### How to add the calendar: 
 * open the iOS Settings
 * scroll to Passwords and Accounts
 * tap on Add account
@@ -19,7 +21,8 @@
 
 ![gif](ios2.gif)
 
-## Calendar added to the device, but meetings are not visible in the device calendar. Try to refresh the calendar:
+## Calendar added to the device, but meetings are not visible in the device calendar. 
+### Try to refresh the calendar:
 * open the iOS Calendar app
 * tap on Calendars
 * the added calendar should be checked
