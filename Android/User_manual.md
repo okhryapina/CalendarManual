@@ -1,6 +1,7 @@
 # Meetings are not displayed in the Meetings tab.
 
-## Have you selected Active calendar in the "My Meeting Video" app settings? If not, do the following: 
+## Have you selected Active calendar in the "My Meeting Video" app settings? 
+### If not, do the following: 
 * open My Meeting Video app
 * open Meetings 
 * open Settings 
@@ -9,7 +10,8 @@
 
 ![gif](android1.gif)
 
-## Still don't see the Meetings? Check, if it's displayed in the device calendar. If not, then add the calendar. How to add needed calendar: 
+## Still don't see the Meetings? Check, if it's displayed in the device calendar. If not, then add the calendar. 
+### How to add needed calendar: 
 * open device Calendar
 * open the settings menu
 * open "Manage calendars"
@@ -22,7 +24,8 @@
 
 ![gif](android2.gif)
 
-## Calendar is added to the device, but meetings are not visible in the device calendar. Try to sync the calendar:
+## Calendar is added to the device, but meetings are not visible in the device calendar. 
+### Try to sync the calendar:
 * open device Settings
 * scroll to "Cloud and account"
 * open Accounts
@@ -32,7 +35,7 @@
 
 ![gif](android3.gif)
 
-##  An alternative way to sync the calendar
+##  An alternative way to sync the calendar:
 * open the device Calendar
 * open Settings
 * open "Manage calendars"
